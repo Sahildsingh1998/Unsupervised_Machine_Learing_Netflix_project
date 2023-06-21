@@ -1,6 +1,8 @@
 # Unsupervised_Machine_Learing_Netflix_project
 **Problem Statement**
 To cluster the given movies and Tv shows using the unsupervised machine learning algorithms and then create a recommendation system based on that clustering.
+
+
 **Data Description**
 The original dataframe had 11 columns
 show_id : id of the show
@@ -26,11 +28,15 @@ Vectorization
 Principal Component Analysis for decomposition
 Clustering
 Designing Recommmendation system
+
+
 **Models Used**
 1.kmeans Clustering using Elbow method
 2.kmeans Clustering using Silhouette Analysis
 3. Gaussain Mixture model
 4. Hierarchial Clustering
+
+
 **Conclusion**
 1.From EDA it was found that Highest number of titles were relaesed in USA followed by India and UK.
 
